@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**bekarys2003/bekarys2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps & Cloud Engineer | AWS Certified (SAA, DVA, SOA)  
+💡 Building scalable cloud-native platforms with EKS, Terraform & Argo CD  
+🛠 Passionate about automation, GitOps, and high availability systems  
 
-Here are some ideas to get you started:
+🌍 Founder of Columbia College CS Club — mentoring 90+ students in DSA & LeetCode  
+👨‍💻 Creator of **TAMAQ – Food Saver for Kazakhstan**, a TooGoodToGo-style app on AWS EKS  
+📊 Building **CloudOps-EKS Platform** – a self-healing, production-grade cluster with GitHub Actions, Prometheus & Grafana  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Mission: Master cloud architecture, launch impactful tech startups, and inspire others to build.  
+☁️ “Start small. Make it solid. Let complexity come from real needs, not imagined ones.”  
+
+📫 [LinkedIn](https://www.linkedin.com/in/bekarysjanbatyrov) 
